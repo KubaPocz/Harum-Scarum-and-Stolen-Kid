@@ -33,11 +33,18 @@ The game emphasizes **decision-making and progression** rather than fast reflexe
 
 ## 🛠️ Built With
 
-- **Unity**
+- **Unity** (3D)  
 - **C#**  
 
 ---
 
 ## 📦 Project Status
 
-✔️ Finished / Playable
+✔️ Finished / Playable  
+
+---
+
+## ⬇️ Download
+
+👉 **Download the game:**  
+[Play it Here!](https://github.com/KubaPocz/Harum-Scarum-and-Stolen-Kid/releases/download/v1.0.1/Harum.Scarum.Stolen.Kid_v1.0.1.zip)
