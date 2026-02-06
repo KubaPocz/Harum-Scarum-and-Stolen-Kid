@@ -44,7 +44,6 @@ The game emphasizes **decision-making and progression** rather than fast reflexe
 
 ---
 
-## ⬇️ Download
+## 🌐 GitHub Pages
 
-👉 **Download the game:**  
-[Play it Here!](https://github.com/KubaPocz/Harum-Scarum-and-Stolen-Kid/releases/download/v1.0.1/Harum.Scarum.Stolen.Kid_v1.0.1.zip)
+👉 **Project page:**
